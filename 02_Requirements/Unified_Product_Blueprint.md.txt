@@ -1,0 +1,16 @@
+# TimeOut Unified Product Blueprint
+
+The system coordinates childcare among trusted sitter-friends.
+
+Key Components:
+
+- Invitation-only circles
+- Sit request engine
+- AutoPing algorithm
+- Broadcast RSVP system
+- Points ledger
+- Circle Vital Signs monitoring
+
+Core interaction:
+
+Create Sit → AutoPing → First YES → Sit Happens → Points Transfer
